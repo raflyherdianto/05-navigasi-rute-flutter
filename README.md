@@ -13,10 +13,14 @@ Prodi : D3 MI <br/>
 
 <img src="img/prak1.png" alt="drawing" width="300"/>
 
+
 ### Tugas
+
 Halaman 1
+<br/>
 <img src="img/tugas_1.png" alt="drawing" width="300"/>
 <br/>
 Halaman 2
+<br/>
 <img src="img/tugas_2.png" alt="drawing" width="300"/>
 <br/>
